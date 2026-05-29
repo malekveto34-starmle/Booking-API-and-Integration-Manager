@@ -1,0 +1,6 @@
+{
+  "name": "Booking API and Integration Manager",
+  "description": "نظام حجز متكامل يسمح بإرسال الطلبات إلى قاعدة البيانات و Google Sheets عبر مسار API مع واجهة مستخدم متطورة",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
